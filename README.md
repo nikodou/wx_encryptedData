@@ -9,6 +9,14 @@ WxPKCS7Encoder.java 微信小程序加解密
 WXCore.java  封装对外访问方法 
 
 
+中间可能需要的jar包也在其中，下载即可  
+
+bcprov-jdk16-1.46.jar
+
+ezmorph-1.0.6.jar
+
+
+
 
 输入解析的小程序的 appId ，使用微信小程序授权获取的 sessionKey 值;
 
