@@ -27,7 +27,7 @@ Page({
 	public static void main(String[] args) throws Exception{
 	   String appId = "wxxxxxxxxxxxxxx01";
 	   String encryptedData =      "Zratztnh8F4yAQ3KBIG5tWEGgrcA3E/WGG4kMmdVo2s6T5ti1MlH/4XNzFxrprCZMzXy1TvTsNoWwOuElmiKydt9ipxc60ix9GlfoAKR2mRmpsIEKj2RvfynT3xHNyZ4cYugCHa/iGVVGosj0nHQJ4Agi3745hHYcNSoPw+ZPMqty4LV8X1goILnLIx1vZcBzZt34S+5MIie14hGQ79vtg==";
-	   String sessionKey = "CkY36cHwxqKuzJy5VraTFQ==";
+	   String sessionKey = "CkY36cHwxqKuszJy5VraTFQ==";
 	   String iv = "k+lDDrGJkO0Nu2+ThPbhTQ==";
        System.out.println(decrypt(appId, encryptedData, sessionKey, iv));
     }
